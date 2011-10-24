@@ -1,4 +1,4 @@
-__Nearby__ is a simple Expression Engine plugin that uses the [GeoNames.org](http://www.geonames.org) API to find places near a known zip code. 
+__Nearby__ is a simple ExpressionEngine plugin that uses the [GeoNames.org](http://www.geonames.org) API to find places near a known zip code. 
 
 Installation
 ------------
