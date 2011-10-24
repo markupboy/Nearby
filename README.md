@@ -13,6 +13,8 @@ Once your account is fully enabled, you can pass your username to the plugin via
 
 `$config['nearby_username'] = "YOUR USERNAME";`
 
+_Note:_ The free web services account on GeoNames provides for 2,000 requests per hour and a total of 30,000 requests per day.  If more is needed, you can sign up for a commercial account at [www.geonames.org/commercial-webservices.html](http://www.geonames.org/commercial-webservices.html)
+
 Usage
 -----
 
